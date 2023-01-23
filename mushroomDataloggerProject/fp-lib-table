@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "mushlogger_art")(type "KiCad")(uri "C:/Users/Zach/Documents/KiCad/mushroomDatalogger")(options "")(descr ""))
+)
